@@ -12,8 +12,12 @@ venv/
 # OS
 .DS_Store
 
-# Data (示例：不要把原始大数据推上来)
+# Data
 data/*.csv
 data/*.txt
 data/*.json
 data/raw/
+
+# Allow sample data for reproducibility
+!data/sample/**
+!data/README.md

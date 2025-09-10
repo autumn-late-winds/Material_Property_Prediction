@@ -1,0 +1,11 @@
+smiles,logS
+CCO,-0.3
+c1ccccc1,-2.1
+Cc1ccccc1,-2.5
+CC(=O)O,0.3
+Oc1ccccc1,-1.5
+O=C(O)C(O)C(O)CO,0.6
+COC(=O)C1=CC=CC=C1C(=O)O,-1.8
+Cn1cnc2n(C)c(=O)n(C)c(=O)c12,-0.8
+CC(=O)NC1=CC=C(O)C=C1,-1.2
+CCN(CC)CC,0.2
